@@ -1,3 +1,3 @@
-## Microsoft Professional Program in Artificial Intelligence
-### DAT275x - Principles of Machine Learning (Mar.2019)
+## MS Professional Program in AI
+### Principles of Machine Learning (Mar.2019)
 Final Exam Submission (Script only)
